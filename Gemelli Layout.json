@@ -1,0 +1,234 @@
+[
+  [
+    {
+      "x": 2
+    },
+    "\n\n2\nF15\n\n\n\n\n\nF3",
+    "\n\n3\nF16\n\n\n\n\n\nF4",
+    "\n\n4\nF17\n\n\n\n\n\nF5",
+    "\n\n5\nF18\n\n\n\n\n\nF6",
+    {
+      "x": 6
+    },
+    "\n\n6\nF19\n\n\n\n\n\nF7",
+    "\n\n7\nF20\n\n\n\n\n\nF8",
+    "\n\n8\nF21\n\n\n\n\n\nF9",
+    "\n\n9\nF22\n\n\n\n\n\nF10"
+  ],
+  [
+    {
+      "y": -0.75
+    },
+    "\n\nESC\nF13\n\n\n\n\n\nF1",
+    "\n\n1\nF14\n\n\n\n\n\nF2",
+    {
+      "x": 14
+    },
+    "\n\n0\nF23\n\n\n\n\n\nF11",
+    "\n\n\nF24\n\n\n\n\n\nF12"
+  ],
+  [
+    {
+      "y": -0.25,
+      "x": 2
+    },
+    ":\n;\nQ\nHOM\n\n\n\n\n\nW",
+    "<\n,\nW\n<i class='fa fa-long-arrow-up'></i>\n\n\n\n\n\nE",
+    ">\n.\nE\nEND\n\n\n\n\n\nR",
+    "\n\nR\n\n\n\n\n\n\nT",
+    {
+      "x": 6,
+      "a": 7
+    },
+    "Y",
+    {
+      "a": 4
+    },
+    "{\n[\n\n\n\n\n\n\n\nU",
+    "}\n]\n\n\n\n\n\n\n\nI",
+    "\"\n'\n\n\n\n\n\n\n\nO"
+  ],
+  [
+    {
+      "y": -0.75,
+      "a": 7
+    },
+    "ESC",
+    {
+      "a": 4
+    },
+    "\n\nTAB\n\n\n\n\n\n\nQ",
+    {
+      "x": 14,
+      "a": 7
+    },
+    "P",
+    ""
+  ],
+  [
+    {
+      "y": -0.25,
+      "x": 2,
+      "a": 4
+    },
+    "@\n2\nA\n<i class='fa fa-long-arrow-left'></i>\n\n\n\n\n\nS",
+    "#\n3\nS\n<i class='fa fa-long-arrow-down'></i>\n\n\n\n\n\nD",
+    {
+      "n": true
+    },
+    "$\n4\nD\n<i class='fa fa-long-arrow-right'></i>\n\n\n\n\n\nF",
+    "%\n5\nF\n\n\n\n\n\n\nG",
+    {
+      "x": 6
+    },
+    "^\n6\n\n\n\n\n\n\n\nH",
+    {
+      "n": true
+    },
+    "&\n7\n\n{\n\n\n\n\n\nJ",
+    "*\n8\n\n}\n\n\n\n\n\nK",
+    "(\n9\n\n\n\n\n\n\n\nL"
+  ],
+  [
+    {
+      "y": -0.75
+    },
+    "\n\nCAP\n\n\n\n\n\n\nDEL",
+    "!\n1\nSHF\n\n\n\n\n\n\nA",
+    {
+      "x": 14
+    },
+    ")\n0",
+    {
+      "a": 7
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.25,
+      "x": 2,
+      "a": 4
+    },
+    "~\n`\nZ\n\n\n\n\n\n\nX",
+    "_\n-\nX\n\n\n\n\n\n\nC",
+    "?\n/\nC\n\n\n\n\n\n\nV",
+    "\n\nV",
+    {
+      "x": 6,
+      "a": 7
+    },
+    "",
+    {
+      "a": 4
+    },
+    "|\n\\\n\n\n\n\n\n\n\nB",
+    "+\n=\n\n\n\n\n\n\n\nN",
+    {
+      "a": 7
+    },
+    "M"
+  ],
+  [
+    {
+      "y": -0.75,
+      "a": 4
+    },
+    "\n\nALT\n\n\n\n\n\n\nWIN",
+    "\n\nCTL\n\n\n\n\n\n\nZ",
+    {
+      "x": 14,
+      "a": 7
+    },
+    "TAB",
+    "L4 - P"
+  ],
+  [
+    {
+      "rx": 1,
+      "ry": 4,
+      "x": 2,
+      "w": 2
+    },
+    "L1",
+    {
+      "x": 8,
+      "w": 2
+    },
+    "L2"
+  ],
+  [
+    {
+      "r": 15,
+      "rx": 6,
+      "ry": 4.25,
+      "x": -0.75,
+      "a": 4,
+      "f": 5,
+      "fa": [
+        0,
+        0,
+        3
+      ]
+    },
+    "\n\nSP\n\n\n\n\n\n\n<i class='kb kb-Unicode-BackSpace-DeleteLeft-Big'></i>"
+  ],
+  [
+    {
+      "r": 30,
+      "rx": 6.25,
+      "ry": 4,
+      "y": -0.75,
+      "x": 0.5,
+      "a": 7,
+      "f": 4
+    },
+    "<i class='fa fa-camera'></i>",
+    {
+      "a": 4,
+      "f": 3,
+      "h": 2
+    },
+    "\n\nT\n\n\n\n\n\n\nCTRL"
+  ],
+  [
+    {
+      "x": 0.5
+    },
+    "\n\nG\n\n\n\n\n\n\nENT"
+  ],
+  [
+    {
+      "r": -30,
+      "rx": 11.75,
+      "y": -0.75,
+      "x": -2.5,
+      "a": 7,
+      "h": 2
+    },
+    "ALT",
+    {
+      "f": 5
+    },
+    ""
+  ],
+  [
+    {
+      "x": -1.5
+    },
+    "<i class='fa fa-arrow-circle-up'></i>"
+  ],
+  [
+    {
+      "r": -15,
+      "rx": 12,
+      "ry": 4.25,
+      "x": -0.25,
+      "sm": "cherry",
+      "sb": "kailh",
+      "st": "PG151101D49/D09",
+      "f": 3
+    },
+    ""
+  ]
+]
