@@ -19,7 +19,7 @@
     {
       "y": -0.75
     },
-    "\n\nESC\nF13\n\n\n\n\n\nF1",
+    "\n\n\nF13\n\n\n\n\n\nF1",
     "\n\n1\nF14\n\n\n\n\n\nF2",
     {
       "x": 14
@@ -45,18 +45,14 @@
       "a": 4
     },
     "{\n[\n\n\n\n\n\n\n\nU",
-    "}\n]\n\n\n\n\n\n\n\nI",
+    "}\n]\n\n<i class='fa fa-long-arrow-up'></i>\n\n\n\n\n\nI",
     "\"\n'\n\n\n\n\n\n\n\nO"
   ],
   [
     {
-      "y": -0.75,
-      "a": 7
+      "y": -0.75
     },
-    "ESC",
-    {
-      "a": 4
-    },
+    "\n\nESC\n\n\n\n\n\n\nESC",
     "\n\nTAB\n\n\n\n\n\n\nQ",
     {
       "x": 14,
@@ -85,9 +81,9 @@
     {
       "n": true
     },
-    "&\n7\n\n{\n\n\n\n\n\nJ",
-    "*\n8\n\n}\n\n\n\n\n\nK",
-    "(\n9\n\n\n\n\n\n\n\nL"
+    "&\n7\n\n<i class='fa fa-long-arrow-left'></i>\n\n\n\n\n\nJ",
+    "*\n8\n\n<i class='fa fa-long-arrow-down'></i>\n\n\n\n\n\nK",
+    "(\n9\n\n<i class='fa fa-long-arrow-right'></i>\n\n\n\n\n\nL"
   ],
   [
     {
@@ -203,20 +199,22 @@
       "rx": 11.75,
       "y": -0.75,
       "x": -2.5,
-      "a": 7,
       "h": 2
     },
-    "ALT",
+    "\n\nESC\n\n\n\n\n\n\nALT",
     {
+      "a": 7,
       "f": 5
     },
     ""
   ],
   [
     {
-      "x": -1.5
+      "x": -1.5,
+      "a": 4,
+      "f": 3
     },
-    "<i class='fa fa-arrow-circle-up'></i>"
+    "\n\nBaSp\n\n\n\n\n\n\n<i class='fa fa-arrow-circle-up'></i>"
   ],
   [
     {
@@ -226,9 +224,8 @@
       "x": -0.25,
       "sm": "cherry",
       "sb": "kailh",
-      "st": "PG151101D49/D09",
-      "f": 3
+      "st": "PG151101D49/D09"
     },
-    ""
+    "\n\nENT"
   ]
 ]
