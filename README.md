@@ -4,14 +4,17 @@ A split keyboard with 58 keys, 2 encoders, 2 I<sup>2</sup>C displays and type C 
 
 ## PCB 2D Renderings
 
-The PCB top view
 ![Top view](./Gemelli.PCB.v1.1.Topview.jpg)
 
-The PCB bottom view
 ![Bottom view](./Gemelli.PCB.v1.1.Bottomview.jpg)
 
-The baked-in key layout on the custom firmware is as follows. Note that the keyboard utilizes the multiple "layers" principle common to compact keyboard such as this one. In the middle of a key you will se the standard layer keybind, in the upper left corner the L1+shift, in the lower left the L1, in the lower right L2 while in the upper right corner is the L4. All layers except L4 are press-and-hold while L4 is a toggle layer that you can exit pressing L1+L2
 ![Key layout](./GemelliLayout.png)
+
+## Key Layout and Layers
+
+The baked-in key layout on the custom firmware is as above. Note that the keyboard utilizes the multiple "layers" principle common to compact keyboard such as this one. In the middle of a key you will se the standard layer keybind, in the upper left corner the L1+shift, in the lower left the L1, in the lower right L2 while in the upper right corner is the L4. All layers except L4 are press-and-hold while L4 is a toggle layer that you can exit pressing L1+L2.
+
+**To modify the layout** you can modify the maps in the master uC code and flash the updated firmware. Alternatively you can flash QMK and use their USB on-the-fly reprogramming to change layout.
 
 ## V2.0 Upgrades
 
